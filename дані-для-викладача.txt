@@ -1,0 +1,7 @@
+﻿# Дані для перевірки проєкту
+Посилання на сайт (хостинг): https://project-maksym-lukashchuk.kesug.com
+Посилання на GitHub-репозиторій: https://github.com/MaximBayer/indyvidualnyi-web-proekt
+URL адміністративної панелі: https://project-maksym-lukashchuk.kesug.com/login/index.php
+Логін для входу: admin
+Пароль для входу: 123
+
