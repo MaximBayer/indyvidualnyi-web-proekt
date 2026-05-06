@@ -1,0 +1,9 @@
+﻿.post-image {
+    height: 220px;
+    object-fit: cover;
+}
+
+.card-title {
+    font-weight: 600;
+}
+
